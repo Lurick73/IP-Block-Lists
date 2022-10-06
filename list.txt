@@ -1,11 +1,4 @@
 # Streachoid IP List
-#
-# Stretchoid IP List
-#
-# A firewall blacklist composed of Stretchoid scanners
-#
-# Report false entries or additional entries as a pull request or issue
-#
 162.243.133.121
 162.243.133.214
 192.241.192.20
