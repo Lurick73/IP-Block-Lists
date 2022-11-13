@@ -1878,3 +1878,5 @@
 178.79.148.229
 #https://www.cyberresilience.io/
 164.92.115.198
+#4vendeta
+78.128.112.0/24
